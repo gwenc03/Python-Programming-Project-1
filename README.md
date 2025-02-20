@@ -15,3 +15,5 @@
 #If the sign bits of both the inputs are equal but the sign bit of the result is not equal to the sign bit of the x input then an "Error Overflow" is detected
 
 #If no "Error Overflow" is detected then the computed binary sum is returned as a string
+
+#Test cases are commented out at the bottom of the program.
